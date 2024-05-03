@@ -19,7 +19,7 @@ pip install pynput
 
 ## Clone this repository
 ```bash
-https://github.com/Ubbaraharika/Keylogger.git
+https://github.com/Shaikjuhi
 ```
 ## Usage
 
@@ -54,10 +54,10 @@ sudo python3 keylogger.py
 5. To stop the keylogger, press `Ctrl+C`.
 
 ## Overview 
-![Log snapshot](https://github.com/Ubbaraharika/Keylogger/assets/108224160/934f8c6d-80cc-443d-b4e1-3e4b02db499c)
+![Log snapshot](https://github.com/ShaikJuhisha/Keylogger/assets/108224160/934f8c6d-80cc-443d-b4e1-3e4b02db499c)
 
 ## Recorder Logs
-![Recorded Log](https://github.com/Ubbaraharika/Keylogger/assets/108224160/5e7e8583-26b1-4dc2-9f33-e76d69b8bd00)
+![Recorded Log](https://github.com/ShaikJuhisha/Keylogger/assets/108224160/5e7e8583-26b1-4dc2-9f33-e76d69b8bd00)
 
 ## Disclaimer
 
@@ -66,7 +66,7 @@ This script is for educational purposes only and should be used responsibly and 
 
 ## Author
 
-- [Harika Ubbara](https://github.com/Ubbaraharika)
+- [Shaik Juhisha](https://github.com/Shaikjuhi)
 
 ## License
 
